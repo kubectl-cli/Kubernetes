@@ -1,7 +1,5 @@
 # Download kubectl – Kubernetes CLI Tool
 
-Kubectl is a command-line tool for interacting with Kubernetes clusters. It enables users to deploy applications, inspect and manage cluster resources, troubleshoot issues, and modify configurations. With kubectl, administrators can automate tasks, scale applications, and control containerized workloads efficiently. It supports various operations, such as creating, updating, and deleting resources, making Kubernetes management more streamlined and effective.
-
 - [Download kubectl](#download-kubectl)
 - [Install kubectl](#install-kubectl)
 - [System Requirements](#system-requirements)
@@ -14,8 +12,7 @@ Kubectl is a command-line tool for interacting with Kubernetes clusters. It enab
 
 
 ## Download kubectl
-
-kubectl 365 1.32.1 is the latest stable version
+kubectl 1.32.1 is the latest stable version
 
 *   Release number: 1.32.1
 *   Release date: Jan 14, 2025
